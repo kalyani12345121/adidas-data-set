@@ -6,7 +6,7 @@ PROJECT OBJECTIVE
 Project Tdecisions, optimize its business strategies, and improve customer experiences. The analysis will focus on Adidas' products, sales, and customer data to provide a better understanding of business performance, product preferences, and customer behavior.  Objective:  Analyze Adidas product sales: Explore the sales.
 
 DATA SET EDIT LINK
--<a href-https://github.com/kalyani12345121/repository-PBI/blob/main/dataset-file.csv">kalyani12345121</a>
+https://github.com/kalyani12345121/adidas-data-set/blob/main/Adidas%20US%20Sales%20Datasets.xlsx
 KPIS
 * TOTAL SALES ANALYSIS(AREA CHAET)
    understand the overall sales performance of adidas over time.
@@ -20,6 +20,6 @@ KPIS
   evaluate the average margin to understand the overall profitability of sales.
 
   DASH BOARD INTERACTION LINK
-![Screenshot(52)](https://github.com/user-attachments/assets)
+https://github.com/kalyani12345121/adidas-data-set/blob/main/Screenshot%20(52).png
   
 
